@@ -16,6 +16,6 @@ public class EdibowlsMod implements ModInitializer {
         // However, some things (like resources) may still be uninitialized.
         // Proceed with mild caution.
 
-        LOGGER.info("Wooden bowls are high in fibre.");
+        LOGGER.info("Wooden bowls are a good source of fibre.");
     }
 }
